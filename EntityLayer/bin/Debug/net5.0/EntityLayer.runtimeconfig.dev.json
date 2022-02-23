@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\busra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\busra\\.nuget\\packages",
+      "D:\\VS2022 Kurulum\\Paylaşılanlar\\NuGetPackages"
+    ]
+  }
+}

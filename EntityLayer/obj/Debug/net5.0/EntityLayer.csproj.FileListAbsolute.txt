@@ -1,0 +1,15 @@
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\Visual Studio Project\PersonelBackEnd\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
